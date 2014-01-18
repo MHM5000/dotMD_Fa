@@ -1,4 +1,4 @@
-# Contribute to the list
+# Contribute to the lists
 Hello dear friend, welcome!
 This guide details how to contribute to this repository.
 
