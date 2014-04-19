@@ -9,6 +9,11 @@ a test on .MD files with Farsi(Persian) Content
 [سایت شخصی](http://mhm5000.ir)
 
 
+| Option | Type | Default | Description |
+| case-sensitive | `Boolean` | `false` | If `false`, all text is treated like lowercase. |
+| close-char | `String` | `"&times;"` | Single Tag close character. |
+| close-class | `String` | `"tag-i"` | Single Tag close class. |
+
 
 [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=)
 [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fvhf%2Ffree-programming-books)
