@@ -10,6 +10,7 @@ a test on .MD files with Farsi(Persian) Content
 
 
 | Option | Type | Default | Description |
+| ------ | ---- | ------- | ----------- |
 | case-sensitive | `Boolean` | `false` | If `false`, all text is treated like lowercase. |
 | close-char | `String` | `"&times;"` | Single Tag close character. |
 | close-class | `String` | `"tag-i"` | Single Tag close class. |
