@@ -16,6 +16,8 @@ a test on .MD files with Farsi(Persian) Content
 | close-char | `String` | `"&times;"` | Single Tag close character. |
 | close-class | `String` | `"tag-i"` | Single Tag close class. |
 
+### Latex
+$\alpha,\beta = \frac{ 1\pm \sqrt{5} }{ 2 }$
 
 [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=)
 [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fvhf%2Ffree-programming-books)
